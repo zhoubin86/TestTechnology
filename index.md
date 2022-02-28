@@ -6,9 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 测试分类
 
-1. [Audio](./Audio/Audio.md)
-
-
+1. General
+2. RF
+3. Image
+4. [Audio](./Audio/Audio.md)
 
 ### Markdown
 
